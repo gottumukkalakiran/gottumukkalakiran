@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning React ⚛ and Express
+- 🌱 I’m currently learning React ⚛ 
 - 👯 Looking forward to collaborating with other developers 
 - 📫 Reach me at: gkirang4@gmail.com 
 - 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
