@@ -7,7 +7,7 @@
 - 👯 Looking forward to collaborating with other developers 
 - 📫 Reach me at: gkirang4@gmail.com 
 - 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
-- 👦🏻 About Me: I love travel🧳, music🎧, dogs🐶, poetry✍🏻 and Linux🐧
+
 
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=gottumukkalakiran&label=Profile%20views&color=0e75b6&style=flat" alt="gottumukkalakiran" />  </p>
