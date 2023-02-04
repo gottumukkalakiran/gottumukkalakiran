@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently working on something cool 😎
-- 🌱 I’m currently learning React ⚛ 
+- 🌱 I’m currently learning React Hooks ⚛ 
 - 👯 Looking forward to collaborating with other developers 
 - 📫 Reach me at: gkirang4@gmail.com 
-- 🥅 2022 Goals: Become Full Stack (MERN) Web Developer
+- 🥅 2023 Goals: Become Full Stack (MERN) Web Developer
 
 
 
