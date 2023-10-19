@@ -35,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gottumukkalakiran&show_icons=true&locale=en&theme=radical&hide_border=true" alt="gottumukkalakiran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gottumukkalakiran&&theme=radical&hide_border=true" alt="gottumukkalakiran" /></p>
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=gottumukkalakiran&layout=compact&theme=flat&column=4&row=1)
